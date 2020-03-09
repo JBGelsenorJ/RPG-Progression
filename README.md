@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# RPG Progression by Javier D. Belda González
 
-You can use the [editor on GitHub](https://github.com/JBGelsenorJ/RPG-Progression/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Index
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b> 1. RPG Concept </b>
 
-### Markdown
+<b> 2. Why the feel progression is so important </b>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b> 3. Different mathematical aproach to leveling in RPG's </b>
 
-```markdown
-Syntax highlighted code block
+<b> 4. Other genres usage </b>
 
-# Header 1
-## Header 2
-### Header 3
+<b> 5. The balancing nightmare </b>
 
-- Bulleted
-- List
+<b> 6. Bibliography </b>
 
-1. Numbered
-2. List
+## RPG concept
 
-**Bold** and _Italic_ and `Code` text
+A Role-playing 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JBGelsenorJ/RPG-Progression/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Bibliography
+- https://www.davideaversa.it/2018/02/gamedesign-math-rpg-level-based-progression/
+- http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html
+- https://forum.unity.com/threads/whats-the-point-of-character-progression-inventory-and-skills-in-rpgs.536874/ 
+- https://www.youtube.com/watch?v=S5camMoNw-o
+- https://www.youtube.com/watch?v=kou6zzE7odk
+- https://www.youtube.com/watch?v=UDrBgDR8FVU
