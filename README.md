@@ -202,7 +202,7 @@ In runescape the designers applied this formula:
 
 <img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/RuneScape.PNG">
 
-A quite complicated formula that kinda has the same spirit od the one we presented before, a exponential function.
+A quite complicated formula that kinda has the same spirit of the one we presented before, an exponential function.
 
 <b>World of Warcraft legacy</b>
 
