@@ -229,9 +229,11 @@ With these different approaches to a progressing system and the basis we establi
 
 ## <i>The balancing nightmare</i>
 
-In a genre with such a rich series of components we have a really important job: <i>To appropriately balance this mechanics</i>
+In a genre with such a rich series of components we have a really important job: <i>To appropriately balance the mechanics</i>
 
-We want the player to have his own experience but if we left some ways to "cheat" our systems we can encounter a disbalance in them. A simple example: If we have a piece created by some component that can be sold by a bigger amount than the final piece. 
+We want the player to have his own experience but if we left some ways to "cheat" our systems we can encounter a disbalance in them. 
+
+A simple example: If we have a piece created by some component that can be sold by a bigger amount than the final piece. 
 And imagine that this piece is a key object to progress in the story, we will feel confused by the lack of logic. 
 
 That is just a simplification of a real problem, what if you have different ways to approach a situation and one of them is extremely easier than the rest? Most of the players will decide to take this path, not because they think its funnier or more interesting, just because its easier. This will lead to two possible scenarios: 
