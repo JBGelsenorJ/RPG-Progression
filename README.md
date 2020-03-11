@@ -19,7 +19,7 @@
 ## Introduction
 Role Playing Games's origin is via tabletop games, these games began to exist at the starts of the 70's decade where famous sagas such as Dungeons & Dragons were created, on this games you describe your actions through speech, you also make a characterization based in a system of classes(depending of the version with more or less combinations), you had to follow a certain rules and and guidelines. In base of this, with some gaps for improvisation, you have a different story and conclusions each game.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51GjhbnHsKL.jpg"> </img>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51GjhbnHsKL.jpg">
 
 A Role-playing-game is a video game genre derived by the homonymous genre depicted above, where you take the control of a character or a group of characters in, defined by the next characteristics:
 
@@ -38,7 +38,7 @@ Some of the first videogames which classified and defined this genre were Final 
 
 Because some cultural difference the genre got divided in two trends, Western RPG's (WRPG) or just RPGs and Japanese RPGs or JRPG.
 
-<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/wrpgvsjrpg.png"> </img>
+<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/wrpgvsjrpg.png">
 
 <table style="width:100%">
   <tr>
@@ -70,7 +70,7 @@ RPG's (and specially MMO-RPG's) are famous because their games are some of the m
 
 <i>As a fun fact Demon Souls didn't go very well on it's release, but based on the talk to talk of the people who actually liked the game it became a cult game. This success will eventualy become as a certain interest for Sony to fund an spiritual sequel called Dark Souls and, as they say, the rest is history... </i>
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/81k2L3oqbtL._AC_SL1173_.jpg" width ="400" height="460"> </img>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81k2L3oqbtL._AC_SL1173_.jpg" width ="400" height="460">
 
 <b>So...Which methods are good to achieve this engagement on our players?</b>
 
@@ -86,13 +86,13 @@ RPG's (and specially MMO-RPG's) are famous because their games are some of the m
 
 The last one is today's lesson, we are going to deeply evaluate progression systems in RPG (and some other genres) to make you able to understand what is a good design idea and what is not.
 
-<img src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/https___blogs-images.forbes.com_olliebarder_files_2016_09_mario64_miyamoto-1200x675-b73c.jpg?quality=90&strip=all&zoom=1&resize=644%2C362&ssl=1" width ="322" height="181"> </img>
+<img src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/https___blogs-images.forbes.com_olliebarder_files_2016_09_mario64_miyamoto-1200x675-b73c.jpg?quality=90&strip=all&zoom=1&resize=644%2C362&ssl=1" width ="322" height="181">
 
 ## How to avoid repetition: <i>The Skinner Box theory</i>
 
 To illustrate some bad progression design ideas we are goint to briefly explain <i>The Skinner box theory</i>.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/B.F._Skinner_at_Harvard_circa_1950.jpg" width="273" height="300"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/B.F._Skinner_at_Harvard_circa_1950.jpg" width="273" height="300">
 
 <q> Burrhus Frederic Skinner was an American psychologist, behaviorist, author, inventor, and social philosopher. He was a psicology professor in harvard during the early 60's to his retirement in 1974.</q>
 <i>quoted from wikipedia</i>
@@ -101,13 +101,13 @@ He formulated a theory that describes that you can condition volition, in other 
 
 He also discovered that always rewarding an action was not the best way to keep the subject to keep doing that action, by that meaning that randomly rewarding the subject or just make it waiting to recieve the reward was a far better way to keep the action being done.
 
-<img src="https://psychestudy.b-cdn.net/wp-content/uploads/2017/11/bfskinner-experiment.png"> </img>
+<img src="https://psychestudy.b-cdn.net/wp-content/uploads/2017/11/bfskinner-experiment.png">
 
 <i>Doesn't  the above statement sound familiar?</i>
 
 On our field this is a practice well known, new rewarding systems close to gambling have been appearing for the last few years, lootboxes, clicker games...
 
-<img src="https://pbs.twimg.com/media/ELcMkFtXUAEIfUW.jpg"></img>
+<img src="https://pbs.twimg.com/media/ELcMkFtXUAEIfUW.jpg">
 
 But on RPG's these practice has been present for a long time, a clear example of this is World of Warcraft, one of the most successful RPG's o all time. This game exploit this theory to make quests "rewarding" and keeping the players to doing it although they probably would found them tedious if they didn't have that reward. 
 
@@ -119,7 +119,7 @@ A very good practice to avoid this, is making a rich talent tree that adds a lon
 
  A good example of this is the skill tree in Skyrim: 
  
-<img src="https://i.ytimg.com/vi/7Nue7aKgfOw/maxresdefault.jpg"> </img>
+<img src="https://i.ytimg.com/vi/7Nue7aKgfOw/maxresdefault.jpg">
 
 This skill tree separates the abilities in different sections and the player is the one who decides which one he is going to improve: <i>simple, functional and consistent</i>. 
 
@@ -146,7 +146,7 @@ By the improvement of his capacities, the player feels the progression and feels
  
  This just creates a less pleasing experience, the player goes through the game with no thinking of his future games, he can easily just abandon the game. He can think that the endgame is not interesting because he has 0 decision power to personalize it.
  
- <img src="https://preview.redd.it/dlvreklip6131.png?width=960&crop=smart&auto=webp&s=eb8f3449a28d9f60f7c96ad38b11772cc62afade"></img>
+ <img src="https://preview.redd.it/dlvreklip6131.png?width=960&crop=smart&auto=webp&s=eb8f3449a28d9f60f7c96ad38b11772cc62afade">
  
  Other good way to enrich the experience is to add a narrative component to the player progression. This way you can make the player to feel a cohesive and coherent development of his character. 
  
@@ -154,12 +154,12 @@ By the improvement of his capacities, the player feels the progression and feels
  
 On the other hand if you act like a pacifist, the own people will start to question why they have to kill you and you end being the bridge between their civilization and the human world.
  
- <img src="https://i.ytimg.com/vi/R3MrpA7UfSM/maxresdefault.jpg"> </img>
+ <img src="https://i.ytimg.com/vi/R3MrpA7UfSM/maxresdefault.jpg">
  
  
 In conclusion using the <i>Skinner box theory </i> is not bad perse but to avoid the player to quickly be tired of your game <b>you have to compliment the mechanics with a real reason to please the player for investing his time</b>
 
-<img src="https://i.ytimg.com/vi/kgvoi1OkKlo/maxresdefault.jpg"> </img>
+<img src="https://i.ytimg.com/vi/kgvoi1OkKlo/maxresdefault.jpg">
 
 
 ##  RPG's Progression system: Different mathematical aproaches
@@ -168,12 +168,12 @@ Like most of the factors involved in the development of videogames, maths are pr
 
 To clearly visualize the representation of this we use a experience curve.
 
-<img src="https://www.davideaversa.it/wp-content/uploads/2018/02/graph_20180202_123036.png"></img>
+<img src="https://www.davideaversa.it/wp-content/uploads/2018/02/graph_20180202_123036.png">
 
 We have now defined our leveling system, the most common one is an exponential experience system. In other words, each level requires more experience than the previous one. To easily englobe this we can use the following formula:
 
 
-<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/logarithmicFormulaSimplifiez.PNG"></img>
+<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/logarithmicFormulaSimplifiez.PNG">
 
 + Being <i>L</i> the level we are currently achieving. 
 
@@ -185,29 +185,28 @@ For example:
 
 At level 2 we will need a experience plus b times a
 
-<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/exampleLVL2.PNG"></img>
+<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/exampleLVL2.PNG">
 
 At level 3 we will need the first experience plus b times the increment at level 2
 
-<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/exampleLVL3.PNG"></img>
+<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/exampleLVL3.PNG">
 
 This is what is called a geometric succession, that can be expresed like this:
 
-<img src="https://github.com/JBGelsenorJ/RPG-Progression/blob/master/media/logarithmicFormula.PNG?raw=true"></img>
-
+<img src="https://github.com/JBGelsenorJ/RPG-Progression/blob/master/media/logarithmicFormula.PNG?raw=true">
 To ejemplify the use of this formulas we are going to explain real cases.
 
 <b>Runescape</b>
 
 In runescape the designers applied this formula:
 
-<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/RuneScape.PNG"></img>
+<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/RuneScape.PNG">
 
 A quite complicated formula that kinda has the same spirit od the one we presented before, a exponential function.
 
 <b>World of Warcraft legacy</b>
 
-<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/WowLegacy.PNG"></img>
+<img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/WowLegacy.PNG">
 
 + Being <i> Diff </i> a difficulty factor.
 
@@ -217,13 +216,13 @@ A quite complicated formula that kinda has the same spirit od the one we present
 
 This formula start as a quadratic experience curve that then transforms into exponential. Giving us this curious curve:
 
-<img src="https://www.davideaversa.it/wp-content/uploads/2018/02/XPtoLevel23.png"></img>
+<img src="https://www.davideaversa.it/wp-content/uploads/2018/02/XPtoLevel23.png">
 
 <b>Diablo 3 </b>
 
 The Diablo 3 Formula can be easily stated on:
 
-<img src="https://www.davideaversa.it/wp-content/uploads/2018/02/scxuv4.jpg"></img>
+<img src="https://www.davideaversa.it/wp-content/uploads/2018/02/scxuv4.jpg">
 
 
 With these different approaches to a progressing system and the basis we established before we now can make an adequated system.
