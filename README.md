@@ -136,13 +136,13 @@ By the improvement of his capacities, the player feels the progression and feels
  
  A bad practice some RPG's are still using is having a defined skills system:
 
-+ At level 1 you gain strenght
++ At level 1 you gain strength
 
 + At level 2 you gain a new magic
 
 + At level 3...
  
- This just creates a less pleasing experience, the player goes through the game with no thinking of his future games, he can easily just abandon the game. He can think that the endgame is not interesting because he has 0 decision power to personalize it.
+ This just creates a less pleasing experience, the player goes through the game with no thinking of his future playthroughs, he can easily just abandon it. He can think that the endgame is not interesting because he has 0 decision power to personalize it.
  
  <img src="https://preview.redd.it/dlvreklip6131.png?width=960&crop=smart&auto=webp&s=eb8f3449a28d9f60f7c96ad38b11772cc62afade">
  
@@ -251,5 +251,5 @@ This will lead to two possible scenarios:
 + <a href="https://www.youtube.com/watch?v=tWtvrPTbQ_c"> The Skinner Box - How Games Condition People to Play More - Extra Credits</a>
 + <a href="https://en.wikipedia.org/wiki/B._F._Skinner"> Wikipedia - B. F. Skinner </a>
 + <a href="https://en.wikipedia.org/wiki/Role-playing_video_game"> Wikipedia - Role Playing video game </a>
-+  <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game"> Wikipedia - Tabletop Role Playing game </a>
-+  <a href="https://www.psychestudy.com/behavioral/learning-memory/operant-conditioning/skinner"> Psychestudy - Skinner box theory </a>
++ <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game"> Wikipedia - Tabletop Role Playing game </a>
++ <a href="https://www.psychestudy.com/behavioral/learning-memory/operant-conditioning/skinner"> Psychestudy - Skinner box theory </a>
