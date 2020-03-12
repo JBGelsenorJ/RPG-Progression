@@ -4,7 +4,7 @@
 
 <b> 1. Introduction </b>
 
-<b> 2. Why the feel of progression is so important </b>
+<a href="#importance"> <b> 2. Why the feel of progression is so important </b></a>
 
 <b> 3. How to avoid repetition: <i>The Skinner Box theory</i></b>
 
@@ -64,7 +64,7 @@ Because some cultural difference the genre got divided in two trends, Western RP
 </table>
 <i>* Due to nowadays trends and hardware potency, some of the actual JRPG's also have real time combat (Dark Souls, Kingdom Hearts, Final Fantasy XV...) </i>
 
-## Why the feel of progression is so important
+<h2 id="importance"> Why the feel of progression is so important </h2>
 
 RPG's (and specially MMO-RPG's) are famous because their games are some of the most long-to beat of the industry, actually, some of them are arguably <b>infinite</b>. Our mission as game developers is to engage the player a time enough to more or less beat the game or in some cases too play as much as he thinks the purchase was worth it, this is not only a question of personal realization or moral, if a player likes your game he may talk his friends about it, or review in a forum... this will create some potential sales to your games, in addition to this, if the player likes the game he probably would buy a sequel/prequel edition.
 
