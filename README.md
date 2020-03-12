@@ -181,17 +181,18 @@ We have now defined our leveling system, the most common one is an exponential e
 
 For example: 
 
-At level 2 we will need a experience plus b times a
+At level 2 we will need <i>a</i> experience plus <i>b</i> times a
 
 <img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/exampleLVL2.PNG">
 
-At level 3 we will need the first experience plus b times the increment at level 2
+At level 3 we will need the first experience plus <i>b</i> times the increment at level 2
 
 <img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/exampleLVL3.PNG">
 
 This is what is called a geometric succession, that can be expresed like this:
 
 <img src="https://github.com/JBGelsenorJ/RPG-Progression/blob/master/media/logarithmicFormula.PNG?raw=true">
+
 To ejemplify the use of this formulas we are going to explain real cases.
 
 <b>Runescape</b>
