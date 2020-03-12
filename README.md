@@ -15,7 +15,7 @@
 <a href="#biblio"><b> 6. Bibliography </b></a>
 
 <h2 id="intro"> Introduction </h2>
-Role Playing Games's origin is via tabletop games, these games began to exist at the start of the 70's decade where famous sagas such as Dungeons & Dragons were created, on this games you describe your actions through speech, you also make a characterization based in a system of classes(depending of the version with more or less combinations), you had to follow certain rules and and guidelines. In base of this, with some gaps for improvisation, you have a different story and conclusions each game.
+Role Playing Games’ origin is via tabletop games, these games began to exist at the start of the 70’s decade where famous sagas such as Dungeons & Dragons were created. On this games you describe your actions through speech, you also make a characterization based in a system of classes (depending of the version with more or less combinations) and you had to follow certain rules and guidelines. According to this, with some gaps for improvisation, you have a different story and conclusions each game.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51GjhbnHsKL.jpg">
 
@@ -34,7 +34,7 @@ A Role-playing-game is a video game genre derived by the homonymous genre depict
 Some of the first videogames which classified and defined this genre were Final Fantasy & Dragon Quest.
 
 
-Because some cultural difference the genre got divided in two trends, Western RPG's (WRPG) or just RPGs and Japanese RPGs or JRPG.
+Due to some cultural difference the genre got divided in two trends, Western RPG's (WRPG) or just RPGs and Japanese RPGs or JRPG.
 
 <img src="https://raw.githubusercontent.com/JBGelsenorJ/RPG-Progression/master/media/wrpgvsjrpg.png">
 
@@ -64,9 +64,9 @@ Because some cultural difference the genre got divided in two trends, Western RP
 
 <h2 id="importance"> Why the feel of progression is so important </h2>
 
-RPG's (and specially MMO-RPG's) are famous because their games are some of the most long-to beat of the industry, actually, some of them are arguably <b>infinite</b>. Our mission as game developers is to engage the player a time enough to more or less beat the game or in some cases too play as much as he thinks the purchase was worth it, this is not only a question of personal realization or moral, if a player likes your game he may talk his friends about it, or review in a forum... this will create some potential sales to your games, in addition to this, if the player likes the game he would probably buy a sequel/prequel edition.
+RPG's (and specially MMO-RPG's) are famous because their games are some of the most long-to beat of the industry, actually, some of them are arguably <b>infinite</b>. Our mission as game developers is to engage the player time enough to more or less beat the game or in some cases too play as much as he thinks the purchase was worth it, this is not only a question of personal realization or moral, if a player likes your game he may talk his friends about it, or review in a forum... this will create some potential sales to your games, in addition to this, if the player likes the game he would probably buy a sequel/prequel edition.
 
-<i>As a fun fact Demon Souls didn't go very well on it's release, but based on the talk to talk of the people who actually liked the game it became a cult game. This success will eventualy become as a certain interest for Sony to fund an spiritual sequel called Dark Souls and, as they say, the rest is history... </i>
+<i>As a fun fact Demon Souls didn't go very well on it's release, but based on the talk to talk of the people who actually liked the game it became a cult game. This success will eventualy become as a certain interest for Sony to fund a spiritual sequel called Dark Souls and, as they say, the rest is history... </i>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/81k2L3oqbtL._AC_SL1173_.jpg" width ="400" height="460">
 
@@ -77,7 +77,7 @@ RPG's (and specially MMO-RPG's) are famous because their games are some of the m
   <li>Inmersive worlds </li>
   <li>Interesting characters</li>
   <li>Fun gameplay</li>
-  <li>Beautyful graphic aspects (do not confuse with technology powering or graphics performance </li>
+  <li>Beautiful graphic aspects (do not confuse with technology powering or graphics performance) </li>
   <li>Fluid gameplay</li>
   <li><b>A feeling of progression</b></li>
 </ul>
