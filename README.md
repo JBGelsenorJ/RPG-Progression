@@ -209,7 +209,7 @@ A quite complicated formula that kinda has the same spirit of the one we present
 
 + Being <i> Diff </i> a difficulty factor.
 
-+ Being <i>MXP</i> the basic experiens given by a monster of level L.
++ Being <i>MXP</i> the basic experience given by a monster of level L.
 
 + Being <i>RF</i> a scaling factor.
 
