@@ -2,21 +2,19 @@
 
 ## Index
 
-<b> 1. Introduction </b>
+<a href="#intro"><b> 1. Introduction </b></a>
 
-<a href="#importance"> <b> 2. Why the feel of progression is so important </b></a>
+<a href="#importance"><b> 2. Why the feel of progression is so important </b></a>
 
-<b> 3. How to avoid repetition: <i>The Skinner Box theory</i></b>
+<a href="#avoid"><b> 3. How to avoid repetition: <i>The Skinner Box theory</i></b></a>
 
-<b> 4. RPG's Progression system: Different mathematical aproaches</b>
+<a href="#math"><b> 4. RPG's Progression system: Different mathematical aproaches</b></a>
 
-<b> 5. <i>The balancing nightmare</i> </b>
+<a href="#balance"><b> 5. <i>The balancing nightmare</i> </b></a>
 
-<b> 6. Other genres usage </b>
+<a href="#intro"><b> 6. Bibliography </b></a>
 
-<b> 7. Bibliography </b>
-
-## Introduction
+<h2 id="intro"> Introduction </h2>
 Role Playing Games's origin is via tabletop games, these games began to exist at the starts of the 70's decade where famous sagas such as Dungeons & Dragons were created, on this games you describe your actions through speech, you also make a characterization based in a system of classes(depending of the version with more or less combinations), you had to follow a certain rules and and guidelines. In base of this, with some gaps for improvisation, you have a different story and conclusions each game.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51GjhbnHsKL.jpg">
@@ -66,7 +64,7 @@ Because some cultural difference the genre got divided in two trends, Western RP
 
 <h2 id="importance"> Why the feel of progression is so important </h2>
 
-RPG's (and specially MMO-RPG's) are famous because their games are some of the most long-to beat of the industry, actually, some of them are arguably <b>infinite</b>. Our mission as game developers is to engage the player a time enough to more or less beat the game or in some cases too play as much as he thinks the purchase was worth it, this is not only a question of personal realization or moral, if a player likes your game he may talk his friends about it, or review in a forum... this will create some potential sales to your games, in addition to this, if the player likes the game he probably would buy a sequel/prequel edition.
+RPG's (and specially MMO-RPG's) are famous because their games are some of the most long-to beat of the industry, actually, some of them are arguably <b>infinite</b>. Our mission as game developers is to engage the player a time enough to more or less beat the game or in some cases too play as much as he thinks the purchase was worth it, this is not only a question of personal realization or moral, if a player likes your game he may talk his friends about it, or review in a forum... this will create some potential sales to your games, in addition to this, if the player likes the game he would probably buy a sequel/prequel edition.
 
 <i>As a fun fact Demon Souls didn't go very well on it's release, but based on the talk to talk of the people who actually liked the game it became a cult game. This success will eventualy become as a certain interest for Sony to fund an spiritual sequel called Dark Souls and, as they say, the rest is history... </i>
 
@@ -88,7 +86,7 @@ The last one is today's lesson, we are going to deeply evaluate progression syst
 
 <img src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/https___blogs-images.forbes.com_olliebarder_files_2016_09_mario64_miyamoto-1200x675-b73c.jpg?quality=90&strip=all&zoom=1&resize=644%2C362&ssl=1" width ="322" height="181">
 
-## How to avoid repetition: <i>The Skinner Box theory</i>
+<h2 id="avoid">How to avoid repetition: <i>The Skinner Box theory</i></h2>
 
 To illustrate some bad progression design ideas we are goint to briefly explain <i>The Skinner box theory</i>.
 
@@ -109,7 +107,7 @@ On our field this is a practice well known, new rewarding systems close to gambl
 
 <img src="https://pbs.twimg.com/media/ELcMkFtXUAEIfUW.jpg">
 
-But on RPG's these practice has been present for a long time, a clear example of this is World of Warcraft, one of the most successful RPG's o all time. This game exploit this theory to make quests "rewarding" and keeping the players to doing it although they probably would found them tedious if they didn't have that reward. 
+But on RPG's these practice has been present for a long time, a clear example of this is World of Warcraft, one of the most successful RPG's of all time. This game exploit this theory to make quests "rewarding" and keeping the players to doing it although they probably would found them tedious if they didn't have that reward. 
 
 <b>But why is this a wrong practice?</b>
 
@@ -162,7 +160,7 @@ In conclusion using the <i>Skinner box theory </i> is not bad perse but to avoid
 <img src="https://i.ytimg.com/vi/kgvoi1OkKlo/maxresdefault.jpg">
 
 
-##  RPG's Progression system: Different mathematical aproaches
+<h2 id="math">  RPG's Progression system: Different mathematical aproaches </h2>
 
 Like most of the factors involved in the development of videogames, maths are present in the way of how me design the progress of our different systems. First we want to define how fast our player is going to progress over time. How much experience have players to invest into the game to gain a level? Is he going to need more experience each level? Or less?. These are both valid ways to create your leveling system.
 
@@ -227,7 +225,7 @@ The Diablo 3 Formula can be easily stated on:
 
 With these different approaches to a progressing system and the basis we established before we now can make an adequated system.
 
-## <i>The balancing nightmare</i>
+<h2 id="balancing"> <i>The balancing nightmare</i></h2>
 
 In a genre with such a rich series of components we have a really important job: <i>To appropriately balance the mechanics</i>
 
@@ -238,13 +236,13 @@ And imagine that this piece is a key object to progress in the story, we will fe
 
 That is just a simplification of a real problem, what if you have different ways to approach a situation and one of them is extremely easier than the rest? Most of the players will decide to take this path, not because they think its funnier or more interesting, just because its easier. This will lead to two possible scenarios: 
 
-+ The player who took the easier path is not satisfied with the reward ------> He leaves the game
++ The player who took the easier path is not satisfied with the reward (no entrance in flow state)------> He leaves the game = boredom
 
-+ The player who took other paths is frustated because he knows that there were other ways to overcome this challenge with less skill ---------> He leaves the game 
++ The player who took other paths is frustated because he knows that there were other ways to overcome this challenge with less skill (no entrance in flow state) ---------> He leaves the game = frustation
 
 <b> So in summary, to earn the players engagement you can create a progression system that makes the player enjoy his experience while playing. To achieve this you can use basic manipulation strategies or richer systems that will eventually make the player feel more satisfied, and to make this all fair you have to adequately balance the mechanics. </b>
 
-## Bibliography
+<h2 id="biblio>"Bibliography</h2>
 + <a href="https://www.davideaversa.it/2018/02/gamedesign-math-rpg-level-based-progression/"> Math RPG level based progression</a>
 + <a href="https://www.youtube.com/watch?v=S5camMoNw-o"> Progression Systems - How Good Games Avoid Skinner Boxes - Extra Credits </a>
 + <a href="https://www.youtube.com/watch?v=tWtvrPTbQ_c"> The Skinner Box - How Games Condition People to Play More - Extra Credits</a>
