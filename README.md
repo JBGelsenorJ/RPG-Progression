@@ -15,7 +15,7 @@
 <a href="#biblio"><b> 6. Bibliography </b></a>
 
 <h2 id="intro"> Introduction </h2>
-Role Playing Games's origin is via tabletop games, these games began to exist at the starts of the 70's decade where famous sagas such as Dungeons & Dragons were created, on this games you describe your actions through speech, you also make a characterization based in a system of classes(depending of the version with more or less combinations), you had to follow a certain rules and and guidelines. In base of this, with some gaps for improvisation, you have a different story and conclusions each game.
+Role Playing Games's origin is via tabletop games, these games began to exist at the start of the 70's decade where famous sagas such as Dungeons & Dragons were created, on this games you describe your actions through speech, you also make a characterization based in a system of classes(depending of the version with more or less combinations), you had to follow certain rules and and guidelines. In base of this, with some gaps for improvisation, you have a different story and conclusions each game.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51GjhbnHsKL.jpg">
 
