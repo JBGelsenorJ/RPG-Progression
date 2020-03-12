@@ -231,10 +231,11 @@ In a genre with such a rich series of components we have a really important job:
 
 We want the player to have his own experience but if we left some ways to "cheat" our systems we can encounter a disbalance in them. 
 
-A simple example: If we have a piece created by some component that can be sold by a bigger amount than the final piece. 
-And imagine that this piece is a key object to progress in the story, we will feel confused by the lack of logic. 
+An example: If we have a piece created by some component that can be sold by a bigger amount than the final piece, also imagine that this piece is a key object to progress in the story, the player will feel confused by the lack of logic. Or if one build is very much powerful than other. 
 
-That is just a simplification of a real problem, what if you have different ways to approach a situation and one of them is extremely easier than the rest? Most of the players will decide to take this path, not because they think its funnier or more interesting, just because its easier. This will lead to two possible scenarios: 
+That are just some simplification of real problems, but, what if you have different ways to approach a situation and one of them is extremely easier than the rest? Most of the players will decide to take this path, not because they think its funnier or more interesting, just because its easier. 
+
+This will lead to two possible scenarios: 
 
 + The player who took the easier path is not satisfied with the reward (no entrance in flow state)------> He leaves the game = boredom
 
