@@ -95,7 +95,7 @@ To illustrate some bad progression design ideas we are goint to briefly explain 
 <q> Burrhus Frederic Skinner was an American psychologist, behaviorist, author, inventor, and social philosopher. He was a psicology professor in harvard during the early 60's to his retirement in 1974.</q>
 <i>quoted from wikipedia</i>
 
-He formulated a theory that describes that you can condition volition, in other words, you can change peoples decisions by manipulating them. This is the base of some recurring mechanics in videogames nowadays. To resume the experiment he created a food with a button and put a rat inside, if the rat presses the button, food will give the rat food. This was very interesting at the time, because you are manipulating a decision, the rat had the option to just not press the button. He later find a way to manipulate the rat to press the button when he wanted.
+He formulated a theory that describes that you can condition volition, in other words, you can change peoples decisions by manipulating them. This is the base of some recurring mechanics in videogames nowadays. To resume the experiment he created a box with a button and put a rat inside, if the rat presses the button, food will give the rat food. This was very interesting at the time, because you are manipulating a decision, the rat had the option to just not press the button. He later find a way to manipulate the rat to press the button when he wanted.
 
 He also discovered that always rewarding an action was not the best way to keep the subject to keep doing that action, by that meaning that randomly rewarding the subject or just make it waiting to recieve the reward was a far better way to keep the action being done.
 
