@@ -242,7 +242,7 @@ That is just a simplification of a real problem, what if you have different ways
 
 <b> So in summary, to earn the players engagement you can create a progression system that makes the player enjoy his experience while playing. To achieve this you can use basic manipulation strategies or richer systems that will eventually make the player feel more satisfied, and to make this all fair you have to adequately balance the mechanics. </b>
 
-<h2 id="biblio>"Bibliography</h2>
+<h2 id="biblio">Bibliography</h2>
 
 + <a href="https://www.davideaversa.it/2018/02/gamedesign-math-rpg-level-based-progression/"> Math RPG level based progression</a>
 + <a href="https://www.youtube.com/watch?v=S5camMoNw-o"> Progression Systems - How Good Games Avoid Skinner Boxes - Extra Credits </a>
