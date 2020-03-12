@@ -10,9 +10,9 @@
 
 <a href="#math"><b> 4. RPG's Progression system: Different mathematical aproaches</b></a>
 
-<a href="#balance"><b> 5. <i>The balancing nightmare</i> </b></a>
+<a href="#balancing"><b> 5. <i>The balancing nightmare</i> </b></a>
 
-<a href="#intro"><b> 6. Bibliography </b></a>
+<a href="#biblio"><b> 6. Bibliography </b></a>
 
 <h2 id="intro"> Introduction </h2>
 Role Playing Games's origin is via tabletop games, these games began to exist at the starts of the 70's decade where famous sagas such as Dungeons & Dragons were created, on this games you describe your actions through speech, you also make a characterization based in a system of classes(depending of the version with more or less combinations), you had to follow a certain rules and and guidelines. In base of this, with some gaps for improvisation, you have a different story and conclusions each game.
@@ -243,6 +243,7 @@ That is just a simplification of a real problem, what if you have different ways
 <b> So in summary, to earn the players engagement you can create a progression system that makes the player enjoy his experience while playing. To achieve this you can use basic manipulation strategies or richer systems that will eventually make the player feel more satisfied, and to make this all fair you have to adequately balance the mechanics. </b>
 
 <h2 id="biblio>"Bibliography</h2>
+
 + <a href="https://www.davideaversa.it/2018/02/gamedesign-math-rpg-level-based-progression/"> Math RPG level based progression</a>
 + <a href="https://www.youtube.com/watch?v=S5camMoNw-o"> Progression Systems - How Good Games Avoid Skinner Boxes - Extra Credits </a>
 + <a href="https://www.youtube.com/watch?v=tWtvrPTbQ_c"> The Skinner Box - How Games Condition People to Play More - Extra Credits</a>
