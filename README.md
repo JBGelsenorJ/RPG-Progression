@@ -95,25 +95,24 @@ To illustrate some bad progression design ideas we are goint to briefly explain 
 <q> Burrhus Frederic Skinner was an American psychologist, behaviorist, author, inventor, and social philosopher. He was a psicology professor in harvard during the early 60's to his retirement in 1974.</q>
 <i>quoted from wikipedia</i>
 
-He formulated a theory that describes that you can condition volition, in other words, you can change peoples decisions by manipulating them. This is the base of some recurring mechanics in videogames nowadays. To resume the experiment he created a box with a button and put a rat inside, if the rat presses the button, food will give the rat food. This was very interesting at the time, because you are manipulating a decision, the rat had the option to just not press the button. He later find a way to manipulate the rat to press the button when he wanted.
+He formulated a theory that describes that you can condition volition, in other words, you can change peoples decisions by manipulating them. This is the base of some recurring mechanics in videogames nowadays. To resume the experiment he created a box with a button and put a rat inside, if the rat pressed the button, food would be given to it. This was very interesting at the time, because you are manipulating a decision, the rat had the option to just not press the button. He later found a way to manipulate the rat to press the button when he wanted.
 
-He also discovered that always rewarding an action was not the best way to keep the subject to keep doing that action, by that meaning that randomly rewarding the subject or just make it waiting to recieve the reward was a far better way to keep the action being done.
+He also discovered that always rewarding an action was not the best way to keep the subject doing that action, which means that randomly rewarding the subject or just making it wait to recieve the reward was a far better way to keep the action being done.
 
 <img src="https://psychestudy.b-cdn.net/wp-content/uploads/2017/11/bfskinner-experiment.png">
 
-<i>Doesn't  the above statement sound familiar?</i>
+<i>Doesn't the above statement sound familiar?</i>
 
-On our field this is a practice well known, new rewarding systems close to gambling have been appearing for the last few years, lootboxes, clicker games...
+On our field this is a well known practice, as new rewarding systems close to gambling have been appearing for the last few years (lootboxes, clickergames...).
 
 <img src="https://pbs.twimg.com/media/ELcMkFtXUAEIfUW.jpg">
 
-But on RPG's these practice has been present for a long time, a clear example of this is World of Warcraft, one of the most successful RPG's of all time. This game exploit this theory to make quests "rewarding" and keeping the players to doing it although they probably would found them tedious if they didn't have that reward. 
-
+But on RPG's these practices have been present for a long time. A clear example of this is World of Warcraft, one of the most succesfull RPG's of all time. This game exploits this theory to make quests "more rewarding" and keep the players doing them although they would probably find it tedious if they didn't have that reward.
 <b>But why is this a wrong practice?</b>
 
-Well is not always bad, but the problem is that games uses this mechanics as game pillars, just trying to artificially extend the time the players invest in them. As stated before some RPG'S use these mechanics <b>but</b> some of the best uses them just as a complement too inmerse the player in a rich experience, by complementing them with great stories, great adventures, fun gameplay... 
+Well is not always bad, but the problem is that games use this mechanics as game pillars, just trying to artificially extend the time the players invest in them. As stated before some RPG's use these mechanics, <b>but</b> some of the best use them just as a complement to inmerse the player in a rich experience, by complementing them with great stories, great adventures, fun gameplay...
 
-A very good practice to avoid this, is making a rich talent tree that adds a long term strategic component to the game. This makes the player to think about his future in the game, how is he going to achieve that and motivates him to actually start the path.
+A very good way to avoid this, is making a rich talent tree that adds a long term strategic component to the game. This makes the player to think about his future in the game, how is he going to achieve that and motivates him to actually start the path.
 
  A good example of this is the skill tree in Skyrim: 
  
@@ -130,8 +129,7 @@ This skill tree separates the abilities in different sections and the player is 
   By using magic.
  
  
- Is that "simple", the player can make his own history, he can be the greatest archer in the kingdom, the best wizard, or, even both.
-By the improvement of his capacities, the player feels the progression and feels rewarded by the time he dedicated to achieve this. <b> In other words: ENGAGED </b>
+ Is that "simple", the player can make his own history, he can be the greatest archer in the kingdom, the best wizard, or even both! By the improvement of this capacities, the player feels progression and feels rewarded from the time he dedicated to achieve this. In other words: <b> ENGAGED </b>
  
  
  A bad practice some RPG's are still using is having a defined skills system:
@@ -162,7 +160,7 @@ In conclusion using the <i>Skinner box theory </i> is not bad perse but to avoid
 
 <h2 id="math">  RPG's Progression system: Different mathematical aproaches </h2>
 
-Like most of the factors involved in the development of videogames, maths are present in the way of how me design the progress of our different systems. First we want to define how fast our player is going to progress over time. How much experience have players to invest into the game to gain a level? Is he going to need more experience each level? Or less?. These are both valid ways to create your leveling system.
+Like most of the factors involved in the development of videogames, maths are present in the way of how we design the progress of our different systems. First we want to define how fast our player is going to progress over time. How much experience have players to invest into the game to gain a level? Is he going to need more experience each level? Or less?. These are both valid ways to create your leveling system.
 
 To clearly visualize the representation of this we use a experience curve.
 
@@ -213,7 +211,7 @@ A quite complicated formula that kinda has the same spirit of the one we present
 
 + Being <i>RF</i> a scaling factor.
 
-This formula start as a quadratic experience curve that then transforms into exponential. Giving us this curious curve:
+This formula starts as a quadratic experience curve that then transforms into exponential. Giving us this curious curve:
 
 <img src="https://www.davideaversa.it/wp-content/uploads/2018/02/XPtoLevel23.png">
 
@@ -224,7 +222,7 @@ The Diablo 3 Formula can be easily stated on:
 <img src="https://www.davideaversa.it/wp-content/uploads/2018/02/scxuv4.jpg">
 
 
-With these different approaches to a progressing system and the basis we established before we now can make an adequated system.
+With these different approaches to a progressing system and the basis we established before, we can now make an adequated system.
 
 <h2 id="balancing"> <i>The balancing nightmare</i></h2>
 
